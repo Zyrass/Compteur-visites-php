@@ -19,5 +19,5 @@ catch (Exception $error) // Souvent la variable est appelé : $e
 /* 
  * La balise de fermeture de PHP étant obsolète ici, 
  * je ne l'inscrit volontairement pas sachant que le fichier connect.php 
- * est entièrement écrit en PHP 
+ * est entièrement écris en PHP 
  */
