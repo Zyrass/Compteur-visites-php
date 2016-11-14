@@ -1,0 +1,20 @@
+/* Définition de la couleur du fond d'écran */
+body {
+    box-sizing: border-box;
+    background-color: #333;
+}
+/* Définition de l'encadré du compteur */
+#content {
+    width: 50%;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: #fff;
+}
+/* Définition du résultat affichier à l'écran */
+#result {
+    line-height: 150px;
+    font-size: 4em;
+    color: #333;
+    text-align: center;
+}
